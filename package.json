@@ -1,0 +1,14 @@
+{
+  "name": "fungile",
+  "version": "1.0.0",
+  "description": "Front page for fungile",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Ashwin",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
